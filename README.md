@@ -12,11 +12,11 @@
 http://ss.osg.so
 >注：
 * 网站部署在香港云服务器，所以访问时可能有点慢，但不影响shadowsocks使用的稳定性
-* 默认每人的流量为10G，不够用可以反馈到yunwei@ogresugar.com
+* 默认每人的总流量为10G，每天签到可以随机增加1-10G不等的流量
 * 目前限定了只允许longtugame邮箱注册
 * 节点信息里面包含了所有的相关参数配置并支持客户端扫描二维码自动配置(例如ios客户端wingy)
 
-### shadowsocks客户端下载及教程：
+### shadowsocks客户端下载及教程
 https://i.ssvpn.me/guide/guidess
 
 如有使用上的疑问，可以Email反馈到yunwei@ogresugar.com，祝大家工作愉快！
